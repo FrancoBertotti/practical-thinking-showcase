@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --font-family-sans: var(--font-principal), ui-sans-serif, system-ui, sans-serif;
+    --font-family-mono: var(--font-secundaria), ui-monospace, 'Courier New', monospace;
+}
