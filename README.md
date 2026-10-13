@@ -61,7 +61,7 @@ Infraestructura: Vercel Edge Hosting + Cloudflare DNS/WAF.
 💡 Aspectos Destacados de Ingeniería
 Arquitectura Híbrida Bifurcada:
 
-Navegación y diseño adaptativo diferenciando la División Física (3D) de la División Digital (Dev) con esquemas de color específicos y componentes altamente interactivos.
+Navegación y diseño adaptativo diferenciando la División Física (Studio) de la División Digital (Dev) con esquemas de color específicos y componentes altamente interactivos.
 
 Generación Dinámica de Enlaces de Conversión:
 
@@ -73,25 +73,26 @@ Integración de Server Components para vistas SEO e interfaces de cliente (Catal
 
 📁 Estructura del Showcase Sanitizado
 Plaintext
-practical-thinking-showcase/
+<pre><code>practical-thinking-showcase/
 ├── app/
-│   ├── layout.tsx             # Root Layout (Fonts, Metadata, Navbar, Footer)
-│   ├── page.tsx               # Root Landing Page (Hero, Split Divisions, Step Workflow)
-│   ├── 3d/                    # División Estudio 3D & Catálogo
+│   ├── layout.tsx                     # Root Layout (Fonts, Metadata, Navbar, Footer)
+│   ├── page.tsx                       # Root Landing Page (Hero, Split Divisions, Step Workflow)
+│   ├── 3d/                            # División Estudio 3D & Catálogo
 │   │   ├── page.tsx
 │   │   └── catalogo/
 │   │       ├── page.tsx
 │   │       ├── CatalogClient.tsx
 │   │       └── [id]/page.tsx
-│   └── dev/                   # División Software & IA
+│   └── dev/                           # División Software & IA
 │       └── page.tsx
-├── components/                # UI Components (Navbar, Footer, WhatsAppButton)
-├── lib/                       # Helpers & Clients
-│   ├── supabase.ts            # Cliente de Supabase sanitizado
-│   ├── whatsapp.ts            # Generador de enlaces comerciales
-│   └── mock-data.ts           # Mock data para testing
-├── package.json               # Dependencias del proyecto
+├── components/                        # UI Components (Navbar, Footer, WhatsAppButton)
+├── lib/                               # Helpers & Clients
+│   ├── supabase.ts                    # Cliente de Supabase sanitizado
+│   ├── whatsapp.ts                    # Generador de enlaces comerciales
+│   └── mock-data.ts                   # Mock data para testing
+├── package.json                       # Dependencias del proyecto
 └── README.md
+</code></pre>
 
 ---
 
