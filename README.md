@@ -97,7 +97,7 @@ practical-thinking-showcase/
 
 ## 👤 Autor & Contacto
 
-Desarrollado por **Franco Bertotti** — *Practical Thinking Studio*
+Desarrollado por **Franco Bertotti** — *Practical Thinking Dev*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franco-bertotti/)
 [![Sitio Web](https://img.shields.io/badge/Web-practical.com.ar-000000?style=flat-square&logo=firefox)](https://practical.com.ar)
