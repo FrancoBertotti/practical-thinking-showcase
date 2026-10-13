@@ -44,6 +44,7 @@ flowchart TD
         Div3D --> WAEngine
         DivDev --> WAEngine
     end
+```
 🛠️ Stack Tecnológico & Herramientas
 Core Framework: Next.js 16.3.7 (App Router, Server & Client Components).
 
@@ -96,7 +97,7 @@ practical-thinking-showcase/
 
 ## 👤 Autor & Contacto
 
-Desarrollado por **Franco** — *Practical Thinking Studio*
+Desarrollado por **Franco Bertotti** — *Practical Thinking Studio*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franco-bertotti/)
 [![Sitio Web](https://img.shields.io/badge/Web-practical.com.ar-000000?style=flat-square&logo=firefox)](https://practical.com.ar)
